@@ -1,0 +1,276 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Roboto:wght@400;500;700;900&display=swap");
+
+:root {
+    --iriscolor: #4d5ae5;
+    --navyblue: #2e2f42;
+    --navcolor: #434455;
+    --oceancolor: #404BBF;
+    --whitecolor: #FFFFFF;
+    --slatecolor: #434455;
+    --ghostwhite: #f4f4fd;
+}
+
+.logo-nav {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--iriscolor);
+}
+
+.link {
+    text-decoration: none;
+}
+
+.inside-logo {
+    color: #2e2f42;
+}
+
+.link-style {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.link-style:hover {
+    color: #404bbf;
+}
+
+.link-style:focus {
+    color: #404bbf;
+}
+
+
+.contacts-color:hover {
+    color: #404bbf;
+}
+
+.contacts-color:focus {
+    color: #404bbf;
+}
+
+.contacts-color {
+    color: #434455;
+}
+
+.address-style {
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.list {
+    list-style: none;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+}
+
+
+.address-list {
+    text-decoration: none;
+}
+
+.address-list:hover {
+    color: #404bbf;
+}
+
+.address-list:focus {
+    color: #404bbf;
+}
+
+/*section 1 class */
+
+.bg-sectionone {
+    background-color: var(--navyblue);
+}
+
+.one-title {
+    color: var(--whitecolor);
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.btn {
+    background-color: #4D5AE5;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.btn.primary:hover,
+.btn.primary:focus {
+    background-color: #404BBF;
+}
+
+.btn {
+    cursor: pointer;
+}
+
+/* sectin  2*/
+
+.titlelist {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.desclist {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* section 3 */
+
+.section-three {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+
+.pictures {
+    background-color: #F4F4FD;
+}
+
+.section-four {
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+    background-color: #FFFFFF;
+}
+
+.team-name {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.employee-bg {
+    background-color: #FFFFFF;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+/* footer */
+
+.lastpart-footerbg {
+    background-color: #2e2f42;
+}
+
+.lastword {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+
+.footerinside-logo {
+    color: #f4f4fd;
+}
+
+/* porfolio */
+
+
+
+
+
+.button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    color: #F4F4FD;
+    cursor: pointer;
+}
+
+.pbutton {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+    cursor: pointer;
+}
+
+.pbutton:hover {
+    color: #FFFFFF;
+}
+
+.pbutton:focus {
+    color: #FFFFFF;
+}
+
+.pbutton:hover {
+    background-color: hsl(235, 50%, 50%);
+}
+
+.pbutton:focus {
+    background-color: #404BBF;
+}
+
+.picture {
+    text-decoration: none;
+}
+
+.parentlist {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.childlist {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+
+
+.listk {
+    text-decoration: none;
+    list-style: none;
+}
+
+
+
+/* .list-four {
+    text-decoration: none;
+} */
