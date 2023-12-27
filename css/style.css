@@ -41,6 +41,10 @@
     padding: 24px;
 }
 
+.liststyle {
+    display: flex;
+    align-items: center
+}
 .link {
     text-decoration: none;
 }
