@@ -19,7 +19,11 @@
     text-transform: uppercase;
     color: var(--iriscolor);
 }
+.firstclassheader {
+    border-bottom: 1px solid;
+    color: #e7e9fc;
 
+}
 .link {
     text-decoration: none;
 }
