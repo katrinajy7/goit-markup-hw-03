@@ -20,7 +20,7 @@
     color: var(--iriscolor);
 }
 .firstclassheader {
-    border-bottom: 1px solid;
+    border-bottom: 1px;
     color: #e7e9fc;
 
 }
