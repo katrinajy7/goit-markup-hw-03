@@ -35,12 +35,17 @@
     padding: 0 15px;
 }
 
-.list {
+/* .list {
     display: flex;
     gap: 40px;
     padding: 24px 0;
+} */
+
+.listinfo {
+    display: flex;
+    gap: 40px;
+    padding: 24px;
 }
-    
 
 .liststyle {
     display: flex;
