@@ -27,6 +27,10 @@
 
 .container {
     display: flex;
+    width: 1158;
+    margin: 0 auto;
+    padding: 0.15px;
+
 
 }
 
