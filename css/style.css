@@ -19,8 +19,11 @@
     text-transform: uppercase;
     color: var(--iriscolor);
 }
+.logo-nav {
+    margin-right: 76px;
+}
 
-.header {
+.firstclassheader {
     border-bottom: 1px solid #e7e9fc;
 }
     
