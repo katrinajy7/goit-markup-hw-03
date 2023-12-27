@@ -35,9 +35,10 @@
     padding: 0 15px;
 }
 
-.liststyle {
+.list {
     display: flex;
-    align-items: center;
+    gap: 40px;
+    padding: 24px;
 }
 
 .link {
