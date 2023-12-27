@@ -20,8 +20,7 @@
     color: var(--iriscolor);
 }
 .firstclassheader {
-    border-bottom: 1px;
-    color: #e7e9fc;
+    border-bottom: 1px solid #e7e9fc;
 
 }
 .link {
