@@ -58,6 +58,7 @@
     min-width: 169px;
     height: 56px;
     border-radius: 4px;
+    border: none;
 }
 
 .link {
