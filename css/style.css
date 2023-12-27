@@ -51,6 +51,15 @@
     padding: 188px 0;
 }
 
+.one-title {
+    max-width: 496px;
+}
+.btn {
+    min-width: 169px;
+    height: none;
+    border: none;
+}
+
 .link {
     text-decoration: none;
 }
