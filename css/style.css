@@ -56,8 +56,8 @@
 }
 .btn {
     min-width: 169px;
-    height: none;
-    border: none;
+    height: 56px;
+    border: 4px;
 }
 
 .link {
