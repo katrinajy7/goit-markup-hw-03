@@ -96,6 +96,13 @@
 .makabuang {
     width: calc((100% - 72px) / 4);
 }
+
+.listlist {
+    list-style: none;
+    display:flex;
+    gap: 24px;
+}
+
 /*section threee*/
 
 .sectionthree {
