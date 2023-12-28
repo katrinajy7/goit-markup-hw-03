@@ -87,11 +87,10 @@
 
 .listtwo {
     display: flex;
-  
     width: calc((100% - 72px) / 4);
     bottom: 8px;
-
 }
+
 .link {
     text-decoration: none;
 }
