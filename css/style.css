@@ -87,6 +87,11 @@
 
 .listtwo {
     display: flex;
+   
+}
+
+.titlelist {
+    padding: 24px;
     width: calc((100% - 72px) / 4);
     bottom: 8px;
 }
