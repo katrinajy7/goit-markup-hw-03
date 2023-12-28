@@ -41,7 +41,9 @@
     padding: 24px 0;
 } 
 
-
+.link-style-link {
+    padding: 24px;
+}
 
 .liststyle {
     display: flex;
