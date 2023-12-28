@@ -300,8 +300,11 @@ body {
 }
 
 .logo-nav-link {
-    display: inline-block;
     margin-bottom: 16px;
+}
+
+.logo-nav-link {
+    display: inline-block;
 }
 
 
