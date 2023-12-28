@@ -261,6 +261,7 @@ body {
 /* section4*/
 .pictures {
     padding: 120px 0;
+    border-radius: (0px 0px 4px 4px);
 }
 
 .section-four {
@@ -277,10 +278,6 @@ body {
 .employee-bg {
     width: calc((100% - 72px) / 4) ;
    
-}
-
-.second-container {
-    border-radius: (0px 0px 4px 4px);
 }
 
 .second-container {
