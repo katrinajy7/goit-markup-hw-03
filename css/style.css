@@ -229,6 +229,7 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom:72px;
+    gap: 24px;
 }
 
 .sectionthree-pics {
