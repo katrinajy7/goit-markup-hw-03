@@ -99,13 +99,12 @@
     padding-bottom: 120px;
 }
 
-.section-three {
+.section-three { 
     margin-bottom: 72px;
     display: flex;
 }
 
 .sectionthree-pics {
-    gap: 24px;
     width:calc((100% - 48px) / 3);
 
 }
