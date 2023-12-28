@@ -306,11 +306,11 @@ body {
 }
 
 .lastword {
-max-width: 264px;
+    line-height: 1.5;
+    color: #f4f4fd;
+    letter-spacing: 0.02em;
+    max-width: 264px;;  
 }
-
-
-
 
 .pictures {
     background-color: #F4F4FD;
