@@ -308,6 +308,10 @@ body {
     margin-bottom: 16px;
 }
 
+.logo-nav {
+    display: inline-block;
+}
+
 .lastword {
     line-height: 1.5;
     color: #f4f4fd;
