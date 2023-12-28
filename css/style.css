@@ -299,6 +299,10 @@ body {
     padding: 100px 0;
 }
 
+.logo-nav {
+    display: inline-block;
+    margin-bottom: 16px;
+}
 
 
 
