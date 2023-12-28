@@ -86,11 +86,7 @@
     outline-offset: 0;
 }
 
-.listtwo {
-    display: flex;
-    gap: 24px;
 
-}
 .link {
     text-decoration: none;
 }
