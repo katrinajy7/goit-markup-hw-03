@@ -69,16 +69,17 @@
     padding: 120px 0;
 }
 
-.list {
-    list-style:none;
+.listlist {
+    list-style: none;
     display: flex;
-    gap: 24px;
+    gap:24px;
 }
 
 .listtwo {
     width: ((100% - 72px) / 4);
 }
 .titlelist {
+
     margin-bottom: 8px;
 }
 
