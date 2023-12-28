@@ -301,12 +301,11 @@ body {
 
 
 .logo-nav {
+    display: inline-block;
     margin-bottom: 16px;
 }
 
-.index.html{
-    display: inline-block;
-}
+
 
 .lastword {
     line-height: 1.5;
