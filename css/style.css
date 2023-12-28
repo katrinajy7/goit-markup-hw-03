@@ -87,11 +87,11 @@
 
 .listtwo {
     display: flex;
-    gap: 24px;  
+    gap: 24px; 
+    width: calc((100% - 72px) / 4);
 }
 
 .titlelist {
-    width: calc((100% - 72px) / 4);
     bottom: 8px;
 }
 
