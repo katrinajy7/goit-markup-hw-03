@@ -271,7 +271,7 @@ body {
     list-style: none;
     gap: 24px;
     display: flex;
-    border-radius: (0px 0px 4px 4px);
+   
 }
 
 .employee-bg {
@@ -279,6 +279,9 @@ body {
    
 }
 
+.employee-bg {
+    border-radius: (0px 0px 4px 4px);
+}
 
 
 
