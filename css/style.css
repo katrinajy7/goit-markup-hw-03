@@ -67,10 +67,17 @@
 
 .sectiontwo {
     padding: 120px 0;
-    display: flex;
-    gap: 24px;  
+
 }
 
+.listtwo {
+    display: flex;
+    gap: 24px;
+   width: calc((100% - 72px) / 4)
+}
+.titlelist {
+    margin-bottom: 8px;
+}
 .visually-hidden {
     position: absolute;
     width: 1px;
