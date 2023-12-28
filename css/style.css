@@ -66,7 +66,9 @@
 }
 
 .sectiontwo {
-    padding: 120px 0;  
+    padding: 120px 0;
+    display: flex;
+    gap: 24px;  
 }
 
 .visually-hidden {
@@ -86,9 +88,7 @@
 
 .listtwo {
     display: flex;
-  
-    width: calc((100% - 72px) / 4);
-    bottom: 8px;
+    gap: 24px;
 
 }
 .link {
