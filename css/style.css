@@ -35,26 +35,15 @@
     padding: 0 15px;
 }
 
-/* .list {
+.list {
     display: flex;
     gap: 40px;
     padding: 24px 0;
-}  */
+} 
 
-/*testing header*/
-.liststyle {
-    display: flex;
-    gap: 40px;
-}
-   
-.listinfo {
-    display: flex;
-    gap: 40px;
+.link-style-link {
     padding: 24px 0;
 }
-/* .link-style-link {
-   
-} */
 
 
 .liststyle {
@@ -240,7 +229,6 @@ body {
     text-transform: capitalize;
     color: #2e2f42;
     margin-bottom:72px;
-    gap: 24px;
 }
 
 .sectionthree-pics {
@@ -362,7 +350,7 @@ body {
 
 
 
-.listk {
+.list {
     text-decoration: none;
     list-style: none;
 }
