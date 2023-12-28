@@ -50,10 +50,11 @@
 .listinfo {
     display: flex;
     gap: 40px;
-}
-.link-style-link {
     padding: 24px 0;
 }
+/* .link-style-link {
+   
+} */
 
 
 .liststyle {
