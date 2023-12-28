@@ -67,6 +67,11 @@
 
 .sectiontwo {
     padding: 120px 0;
+}
+
+.list {
+    list-style:none;
+    display: flex;
     gap: 24px;
 }
 
@@ -74,7 +79,7 @@
     width: ((100% - 72px) / 4);
 }
 .titlelist {
-    display: flex;
+
     margin-bottom: 8px;
 }
 
