@@ -272,19 +272,16 @@ body {
     gap: 24px;
     display: flex;
     border-radius: (0px 0px 4px 4px);
-
 }
 
 .employee-bg {
     background-color: #ffffff;
     width: calc((100% - 72px) / 4);
-    border-radius: 0px 0px 4px 4px;
-   
+    border-radius: 0px 0px 4px 4px;   
 }
 
 .second-container {
-    padding: 32px 0;
-   
+    padding: 32px 0;  
 }
 
 .team-name {
@@ -296,7 +293,11 @@ body {
     text-align: center;
 }
 
+/* footer */
 
+.lastpart-footerbg {
+    padding: 100px 0;
+}
 
 
 
