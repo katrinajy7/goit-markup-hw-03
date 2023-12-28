@@ -102,11 +102,10 @@
 .section-three {
     margin-bottom: 72px;
     display: flex;
-    gap: 24px;
-
 }
 
 .sectionthree-pics {
+    gap: 24px;
     width:calc((100% - 48px) / 3);
 
 }
