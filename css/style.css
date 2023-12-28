@@ -92,7 +92,10 @@
     width: calc((100% - 72px) / 4);
     bottom: 8px;
 }
-
+/* section 2 css*/
+.makabuang {
+    width: calc((100% - 72px) / 4);
+}
 /*section threee*/
 
 .sectionthree {
