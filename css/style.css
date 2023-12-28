@@ -69,11 +69,6 @@
     padding: 120px 0;
 }
 
-.listlist {
-    list-style: none;
-    display: flex;
-    gap:24px;
-}
 
 .titlelist {
     margin-bottom: 8px;
