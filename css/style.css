@@ -102,6 +102,11 @@
 .section-three {
     margin-bottom: 72px;
 }
+
+.sectionthree-pics {
+    gap: 24px;
+}
+
 .link {
     text-decoration: none;
 }
