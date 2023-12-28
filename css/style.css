@@ -65,12 +65,15 @@
     border: none;
 }
 
+.sectiontwo {
+    padding: 120px 0;
+}
 
 .titlelist {
-    padding: 120px 0;
     display: flex;
     width: ((100% - 72px) / 4);
     gap: 24px;
+    margin-bottom: 8px;
 }
 
 /* .listtwo {
