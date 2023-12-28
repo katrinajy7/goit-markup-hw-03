@@ -85,7 +85,7 @@
     outline-offset: 0;
 }
 
-.listtwo {
+.titlelist{
     display: flex;
     width: calc((100% - 72px) / 4);
     bottom: 8px;
