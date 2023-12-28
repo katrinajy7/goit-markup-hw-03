@@ -299,16 +299,14 @@ body {
     padding: 100px 0;
 }
 
-.logo-nav-link {
-    margin-bottom: 16px;
-}
 
 .logo-nav-link {
     display: inline-block;
+    margin-bottom: 16px;
 }
 
 .lastword {
-    width: 264px;
+max-width: 264px;
 }
 
 
