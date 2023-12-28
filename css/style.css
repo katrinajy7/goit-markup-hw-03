@@ -295,12 +295,12 @@ body {
 
 /* footer */
 
-.footerwrap {
+.lastpart-footerbg {
     padding: 100px 0;
 }
 
 
-.logonav {
+.logo-nav {
     line-height: 1.5;
     display: inline-block;
     letter-spacing: 0.02em;
