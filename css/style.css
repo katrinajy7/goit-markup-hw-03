@@ -68,8 +68,7 @@
 .sectiontwo {
     padding: 120px 0; 
     display: flex;
-    gap: 24px;
-    width: calc((100% - 72px) / 4);
+    
 }
 
 
@@ -89,6 +88,8 @@
 }
 
 .titlelist {
+    gap: 24px;
+    width: calc((100% - 72px) / 4);
     bottom: 8px;
 }
 
