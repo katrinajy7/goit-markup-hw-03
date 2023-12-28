@@ -101,10 +101,13 @@
 
 .section-three {
     margin-bottom: 72px;
+    gap: 24px;
 }
 
 .sectionthree-pics {
-    gap: 24px;
+    display: flex;
+  
+
 }
 
 .link {
