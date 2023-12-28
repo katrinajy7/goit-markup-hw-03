@@ -268,9 +268,28 @@ body {
 }
 
 .listthree {
+    list-style: none;
     gap: 24px;
     display: flex;
 }
+
+.employee-bg {
+    border-radius:(0px 0px 4px 4px) ;
+}
+
+.employeediv {
+    padding: 32px 0; 
+}
+
+
+
+
+
+
+
+
+
+
 .pictures {
     background-color: #F4F4FD;
 }
