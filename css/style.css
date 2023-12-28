@@ -35,18 +35,12 @@
     padding: 0 15px;
 }
 
-.list {
+.listtwot {
     display: flex;
     gap: 40px;
     padding: 24px 0;
-   
-} 
-
-.list {
-    
     width: calc((100% - 72px) / 4);
-}
-
+} 
 
 
 .liststyle {
