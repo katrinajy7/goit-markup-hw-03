@@ -299,7 +299,7 @@ body {
     padding: 100px 0;
 }
 
-.wrap {
+.logo-nav-link {
     margin-bottom: 16px;
 }
 
@@ -307,6 +307,9 @@ body {
     display: inline-block;
 }
 
+.lastword {
+    width: 264px;
+}
 
 
 
