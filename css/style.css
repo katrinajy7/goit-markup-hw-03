@@ -39,9 +39,13 @@
     display: flex;
     gap: 40px;
     padding: 24px 0;
-    width: calc((100% - 72px) / 4);
+   
 } 
 
+.list {
+    
+    width: calc((100% - 72px) / 4);
+}
 
 
 
