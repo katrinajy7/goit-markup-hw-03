@@ -107,6 +107,7 @@
     margin-bottom: 8px;
 }
 
+
 /*section threee*/
 
 .sectionthree {
@@ -242,9 +243,16 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    margin-bottom:72px;
 }
 
+.section-three {
+    margin-bottom: 72px;
+}
+
+.list2 {
+    display: flex;
+    gap: 24px;
+}
 .sectionthree-pics {
     width: calc((100% - 48px) / 3);
 
