@@ -41,11 +41,11 @@
     padding: 24px 0;
 } 
 
-.listinfo {
-    gap: 40px;
-}
+
 .link-style-link {
     padding: 24px 0;
+    gap: 40px;
+    
 }
 
 
