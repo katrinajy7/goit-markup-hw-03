@@ -45,7 +45,8 @@
 
 .liststyle {
     display: flex;
-    align-items: center
+    align-items: center;
+    padding: 24px 0;
 }
 
 .bg-sectionone {
