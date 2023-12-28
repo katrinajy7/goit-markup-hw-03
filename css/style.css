@@ -39,11 +39,10 @@
     display: flex;
     gap: 40px;
     padding: 24px 0;
+    width: calc((100% - 72px) / 4);
 } 
 
-.link-style-link {
-    padding: 24px 0;
-}
+
 
 
 .liststyle {
