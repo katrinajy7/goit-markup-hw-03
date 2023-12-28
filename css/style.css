@@ -70,10 +70,10 @@
 
 }
 
-.listtwo {
+.list {
     display: flex;
     gap: 24px;
-    calc((100% - 72px) / 4)
+    width: ((100% - 72px) / 4);
 }
 
 .visually-hidden {
