@@ -41,6 +41,16 @@
     padding: 24px 0;
 }  */
 
+/*testing header*/
+.liststyle {
+    display: flex;
+    gap: 40px;
+}
+   
+.listinfo {
+    display: flex;
+    gap: 40px;
+}
 .link-style-link {
     padding: 24px 0;
 }
