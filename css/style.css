@@ -250,6 +250,7 @@ body {
 }
 
 .listtwotwo {
+    list-style: none;
     display: flex;
     gap: 24px;
 }
@@ -260,6 +261,14 @@ body {
 /* section4*/
 .pictures {
     padding: 120px 0;
+}
+
+.section-four {
+    margin-bottom: 72px;
+}
+
+.listthree {
+    gap: 24px;
 }
 .pictures {
     background-color: #F4F4FD;
