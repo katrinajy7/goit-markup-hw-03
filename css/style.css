@@ -65,7 +65,8 @@
     border: none;
 }
 
-.sectiontwo {
+
+.titlelist {
     padding: 120px 0;
     display: flex;
     width: ((100% - 72px) / 4);
