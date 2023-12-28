@@ -257,7 +257,10 @@ body {
     width: calc((100% - 48px) / 3);
 
 }
-
+/* section4*/
+.pictures {
+    padding: 120px 0;
+}
 .pictures {
     background-color: #F4F4FD;
 }
