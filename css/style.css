@@ -41,11 +41,8 @@
     padding: 24px 0;
 } 
 
-
 .link-style-link {
     padding: 24px 0;
-    gap: 40px;
-    
 }
 
 
@@ -73,14 +70,12 @@
 
 }
 
-.list {
+.listtwo {
     display: flex;
     gap: 24px;
-   width: calc((100% - 72px) / 4);
+    calc((100% - 72px) / 4)
 }
-.titlelist {
-    margin-bottom: 8px;
-}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
