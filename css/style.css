@@ -75,11 +75,9 @@
     gap:24px;
 }
 
-.listtwo {
-    width: ((100% - 72px) / 4);
-}
 .titlelist {
     margin-bottom: 8px;
+    width: ((100% - 72px) / 4);
 }
 
 
