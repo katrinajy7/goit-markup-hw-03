@@ -297,16 +297,17 @@ body {
 
 .lastpart-footerbg {
     padding: 100px 0;
+    display: inline-block;
 }
 
 .footer-link {
     margin-bottom: 16px;
 }
 
-.footer-link {
+/* .footer-link {
    display:inline-block;
 
-}
+} */
 .lastword {
     max-width: 264px;
 }
