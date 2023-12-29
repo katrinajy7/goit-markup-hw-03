@@ -300,10 +300,11 @@ body {
     
 }
 
-
+.footerlink {
+    display: inline-block;
+}
 
 .logo-nav{
-    display: inline-block;
     margin-bottom: 16px;
 }
 
