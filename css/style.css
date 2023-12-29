@@ -297,20 +297,14 @@ body {
 
 .lastpart-footerbg {
     padding: 100px 0;
-}
-
-
-.footer-link {
     display: inline-block;
+    letter-spacing: 0.02em;
+    max-width: 264px;
     margin-bottom: 16px;
 }
 
-
-
 .lastword {
-    line-height: 1.5;
     color: #f4f4fd;
-    letter-spacing: 0.02em;
     max-width: 264px;;  
 }
 
