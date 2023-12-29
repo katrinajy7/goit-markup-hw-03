@@ -293,6 +293,10 @@ body {
     text-align: center;
 }
 
+.headerhead {
+    border-bottom: 1px solid #e7e9fc;
+}
+
 /* footer */
 
 .section-container {
