@@ -297,14 +297,13 @@ body {
 
 .lastpart-footerbg {
     padding: 100px 0;
+        
+}
+
+.footerlink{
     display: inline-block;
     margin-bottom: 16px;
 }
-
-/* .footerlink{
-    display: inline-block;
-    margin-bottom: 16px;
-} */
 
 .lastword {
     max-width: 264px;
@@ -312,8 +311,8 @@ body {
 
 /* PORTFOLIO */
 
-.headfirst{
-    border-bottom:1px solid #e7e9fc ;
+.headfirst {
+    border-bottom: 1px solid #e7e9fc;
 }
 
 
