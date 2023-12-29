@@ -297,6 +297,10 @@ body {
 
 .lastpart-footerbg {
     padding: 100px 0;
+    
+}
+
+.wrap {
     display: inline-block;
 }
 
