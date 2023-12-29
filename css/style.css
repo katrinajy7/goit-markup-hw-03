@@ -295,11 +295,11 @@ body {
 
 /* footer */
 
-.lastpart-footerbg {
+.wrap.lastpart-footerbg {
     padding: 100px 0;
 }
 
-.wrap.footer-link {
+.footer-link {
     display: inline-block;
     margin-bottom: 16px;
 }
