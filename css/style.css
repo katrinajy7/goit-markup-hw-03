@@ -18,7 +18,8 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iriscolor);
-    text-transform: none;
+    text-decoration: none;
+
 }
 .logo-nav {
     margin-right: 76px;
@@ -28,7 +29,10 @@
     border-bottom: 1px solid #e7e9fc;
     background: white;
 }
-    
+
+.main-header-container {
+    display: flex;
+}
 
 .container {
     width: 1158px;
