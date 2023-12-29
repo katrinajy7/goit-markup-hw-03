@@ -304,7 +304,7 @@ body {
 }
 
 .footer-link {
-   display: block;
+   display:inline-block;
 
 }
 .lastword {
