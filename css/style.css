@@ -354,9 +354,19 @@ body {
     display: flex;
 }
 
+.button {
+    padding: 12px 24px;
+    border: 1px solid #e7e9fc; 
+    border-radius: 4px;
+}
 
+.button:hover {
+    border: 1px solid transparent; 
+}
 
-
+.button:focus {
+    border: 1px solid transparent;
+}
 .pictures {
     background-color: #F4F4FD;
 }
