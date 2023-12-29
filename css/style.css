@@ -18,21 +18,21 @@
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iriscolor);
+    text-transform: none;
 }
 .logo-nav {
     margin-right: 76px;
 }
 
-.firstclassheader {
+.headerhead {
     border-bottom: 1px solid #e7e9fc;
+    background: white;
 }
     
 
 .container {
-    display: flex;
     width: 1158px;
     margin: 0 auto;
-    padding: 0 15px;
 }
 
 .list {
@@ -304,10 +304,10 @@ body {
         
 }
 
-.container {
+/* .container {
     width: 1158px;
     margin: 0 auto;
-}
+} */
 
 .footerlink{
     display: inline-block;
