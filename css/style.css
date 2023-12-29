@@ -310,11 +310,6 @@ body {
         
 }
 
-/* .container {
-    width: 1158px;
-    margin: 0 auto;
-} */
-
 .footerlink{
     display: inline-block;
     margin-bottom: 16px;
@@ -340,6 +335,9 @@ body {
     align-items: center
 }
 
+.link-style {
+    padding: 24px 0;
+}
 
 
 
@@ -466,7 +464,3 @@ body {
 }
 
 
-
-/* .list-four {
-    text-decoration: none;
-} */
