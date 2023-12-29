@@ -296,13 +296,16 @@ body {
 /* footer */
 
 .lastpart-footerbg {
-    padding: 100px 0;
     display: inline-block;
-    letter-spacing: 0.02em;
     max-width: 264px;
     margin-bottom: 16px;
 }
 
+.lastpart-footerbg {
+    background-color: #2e2f42;
+    padding: 100px 0;
+
+}
 .lastword {
     color: #f4f4fd;
     max-width: 264px;;  
