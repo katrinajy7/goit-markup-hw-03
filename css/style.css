@@ -330,15 +330,17 @@ body {
     border-bottom: 1px solid #e7e9fc;
 }
 
-.headcontainer {
+
+.port-container {
     display: flex;
 }
 
-.insideheader {
-    width: 1158px;
-    margin: 0 auto;
-    padding: 0 15px;
+.navnav {
+    display: flex;
+    align-items: center
 }
+
+
 
 
 
