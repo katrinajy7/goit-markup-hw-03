@@ -367,6 +367,16 @@ body {
 .pbutton:focus {
     border: 1px solid transparent;
 }
+
+.listporttwo {
+    display: flex;
+    column-gap: 24px;
+    row-gap: 48px;
+}
+    
+
+
+
 .pictures {
     background-color: #F4F4FD;
 }
