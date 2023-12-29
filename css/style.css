@@ -302,7 +302,7 @@ body {
 
 
 
-.logo-nav footer-link {
+.logo-nav.footer-link{
     display: inline-block;
     margin-bottom: 16px;
 }
