@@ -360,11 +360,11 @@ body {
     border-radius: 4px;
 }
 
-.button:hover {
+.pbutton:hover {
     border: 1px solid transparent; 
 }
 
-.button:focus {
+.pbutton:focus {
     border: 1px solid transparent;
 }
 .pictures {
