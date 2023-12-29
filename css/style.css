@@ -296,17 +296,16 @@ body {
 /* footer */
 
 .lastpart-footerbg {
-    display: inline-block;
-    max-width: 264px;
-    margin-bottom: 16px;
-    background-color: #2e2f42;
     padding: 100px 0;
 }
 
+.footer-link {
+    display: inline-block;
+    margin-bottom: 16px;
 
+}
 .lastword {
-    color: #f4f4fd;
-    max-width: 264px;;  
+    max-width: 264px;  
 }
 
 
