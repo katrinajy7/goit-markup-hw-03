@@ -32,6 +32,7 @@
 
 .main-header-container {
     display: flex;
+    justify-content: space-between;
 }
 
 .container {
@@ -139,13 +140,13 @@
     color: #2e2f42;
 }
 
-.link-style {
+/* .link-style {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
-}
+} */
 
 .link-style:hover {
     color: #404bbf;
@@ -186,17 +187,17 @@ body {
 }
 
 
-.address-list {
+/* .address-list {
     text-decoration: none;
-}
+} */
 
-.address-list:hover {
+/* .address-list:hover {
     color: #404bbf;
 }
 
 .address-list:focus {
     color: #404bbf;
-}
+} */
 
 /*section 1 class */
 
