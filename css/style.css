@@ -390,6 +390,7 @@ body {
 .addressport {
     display: flex;
     gap: 40px;
+    list-style: none;
 }
 
 
