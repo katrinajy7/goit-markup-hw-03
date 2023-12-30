@@ -110,15 +110,14 @@
     bottom: 8px;
 }
 /* section 2 css*/
-/* .makabuang {
+.makabuang {
     width: calc((100% - 72px) / 4);
-} */
+}
 
 .listlist {
     list-style: none;
     display:flex;
     gap: 24px;
-    width: calc((100% - 72px) / 4);
 }
 
 .titlelist {
@@ -401,9 +400,9 @@ body {
     display: block;
 } */
 
-.display {
+/* .display {
     display: block;
-}
+} */
 
 
 
