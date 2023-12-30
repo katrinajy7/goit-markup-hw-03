@@ -386,9 +386,6 @@ body {
     row-gap: 48px;   
 }
 
-.sectionsection {
-    text-decoration: none;
-}
 
 .listfirst {
     width: calc((100% - 48px) / 3);
