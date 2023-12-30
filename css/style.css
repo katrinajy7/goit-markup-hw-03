@@ -49,10 +49,14 @@
 .listk {
     display: flex;
     gap: 40px;
+    list-style: none;
+   
 }
 
 .link-style-link {
     padding: 24px 0;
+    text-decoration: none;
+    
 }
 
 
