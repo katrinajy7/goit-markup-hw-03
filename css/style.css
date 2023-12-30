@@ -110,14 +110,15 @@
     bottom: 8px;
 }
 /* section 2 css*/
-.makabuang {
+/* .makabuang {
     width: calc((100% - 72px) / 4);
-}
+} */
 
 .listlist {
     list-style: none;
     display:flex;
     gap: 24px;
+    width: calc((100% - 72px) / 4);
 }
 
 .titlelist {
@@ -187,20 +188,6 @@ body {
     background-color: #ffffff;
 }
 
-
-/* .address-list {
-    text-decoration: none;
-} */
-
-/* .address-list:hover {
-    color: #404bbf;
-}
-
-.address-list:focus {
-    color: #404bbf;
-} */
-
-/*section 1 class */
 
 .bg-sectionone {
     background-color: var(--navyblue);
