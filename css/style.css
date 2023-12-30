@@ -392,11 +392,14 @@ body {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    margin-bottom: 8px;
+    
     text-decoration: none;
 }
 
+.parentlist {
+    margin-bottom: 8px;
 
+}
 
 .firstlist {
     padding: 32px 16px;
