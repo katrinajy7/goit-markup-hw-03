@@ -48,6 +48,7 @@
 
 .link-style-link {
     padding: 24px 0;
+    text-decoration: none;
 }
 
 
@@ -385,6 +386,7 @@ body {
     border: 1px solid #e7e9fc;
     border-top: none;
 }
+
 
 
 
