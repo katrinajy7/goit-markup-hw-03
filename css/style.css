@@ -1,6 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@800&family=Roboto:wght@400;500;700;900&display=swap");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/modern-normalize/1.0.0/modern-normalize.min.css");
- 
+
+
+* {
+    margin:0;
+    padding: 0;
+}
+
 :root {
     --iriscolor: #4d5ae5;
     --navyblue: #2e2f42;
@@ -10,6 +16,14 @@
     --slatecolor: #434455;
     --ghostwhite: #f4f4fd;
 }
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: var (--slate);
+    background-color: var (--white);
+}
+
+/* header */
 
 .logo-nav {
     font-family: 'Raleway', sans-serif;
@@ -28,13 +42,20 @@
 
 .headerhead {
     border-bottom: 1px solid #e7e9fc;
-    background: white;
+
 }
 
 .main-header-container {
     display: flex;
     justify-content: space-between;
 }
+
+.listsyle,
+.address-style {
+    display:flex;
+    align-items: center;
+}
+
 
 .container {
     width: 1158px;
@@ -66,6 +87,8 @@
     display: flex;
     align-items: center
 }
+
+/* NAV ITEMES */
 
 .bg-sectionone {
     padding: 188px 0;
@@ -483,6 +506,12 @@ body {
     color: #4d5ae5;
     background-color: #F4F4FD;
     cursor: pointer;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
+    margin: 0 auto;
 }
 
 .pbutton:hover {
