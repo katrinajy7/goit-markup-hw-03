@@ -410,7 +410,9 @@ body {
     border-top: none;
 }
 
-
+.kalabadimage {
+    display: block;
+}
 
 
 
