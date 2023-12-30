@@ -136,7 +136,13 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color:  #2e2f42; 
+}
+
+.listk {
+    display: flex;
+    gap: 40px;
+    list-style: none;
 }
 
 .link-style:hover {
@@ -391,10 +397,12 @@ body {
     border-top: none;
 }
 
-.addressport {
-    display: flex;
+.ayinday {
+    display: inline-block;
     gap: 40px;
     list-style: none;
+    
+
 }
 
 
