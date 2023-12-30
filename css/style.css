@@ -182,6 +182,10 @@ body {
     text-decoration: none;
 }
 
+.listinfo {
+    display: flex;
+    gap: 40px;
+}
 .address-list:hover {
     color: #404bbf;
 }
