@@ -379,6 +379,7 @@ body {
 }
 
 .listporttwo {
+    list-style: none;
     display: flex;
     flex-wrap: wrap;
     column-gap: 24px;
@@ -386,7 +387,7 @@ body {
 }
 
 
-.portlinklist {
+.listfirst {
     width: calc((100% - 48px) / 3);
 }
 
