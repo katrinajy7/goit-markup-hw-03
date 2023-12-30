@@ -410,10 +410,13 @@ body {
     border-top: none;
 }
 
-.kalabadimage {
+/* .kalabadimage {
+    display: block;
+} */
+
+.img {
     display: block;
 }
-
 
 
 
