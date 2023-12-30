@@ -523,7 +523,7 @@ body {
 }
 
 .pbutton:hover {
-    background-color: hsl(235, 50%, 50%);
+    background-color: #404BBF;
 }
 
 .pbutton:focus {
@@ -550,12 +550,31 @@ body {
 }
 
 
+/* MAIN CORRECTION */
+.listporttwo {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 24px;
+    row-gap: 48px;
+}
 
-.list {
+.listfirst {
+    flex-basis: calc((100% - 48px) / 3);
+        
+}
+    
+.port-first {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+}
+
+
+/* .list {
     text-decoration: none;
     list-style: none;
 }
-
+ */
 
 /* .listfirst{
     width: calc((100% - 48px) / 3)
