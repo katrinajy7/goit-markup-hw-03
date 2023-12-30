@@ -48,7 +48,6 @@
 
 .link-style-link {
     padding: 24px 0;
-    text-decoration: none;
 }
 
 
@@ -136,13 +135,7 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color:  #2e2f42; 
-}
-
-.listk {
-    display: flex;
-    gap: 40px;
-    list-style: none;
+    color: #2e2f42;
 }
 
 .link-style:hover {
@@ -188,10 +181,6 @@ body {
     text-decoration: none;
 }
 
-.listinfo {
-    display: flex;
-    gap: 40px;
-}
 .address-list:hover {
     color: #404bbf;
 }
@@ -397,11 +386,6 @@ body {
     border-top: none;
 }
 
-/* .ayinday {
-    display: inline-block;
-    gap: 40px;
-    list-style: none;
-} */
 
 
 
